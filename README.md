@@ -1,7 +1,7 @@
-# The Name Of The Repo
+# Test Repo
 
-Summary of stuff here
+This repository is for testing git commits and merges.
 
-# This is how you set up the project
+# Content
 
-Do things here. Afterwards, do more stuff.
+Test content.
